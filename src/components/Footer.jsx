@@ -11,18 +11,18 @@ function Footer() {
           <p className="mb-3 mb-md-0 d-flex gap-3 align-items-center justify-content-center ">
             Mode With ❤️ by{" "}
             <Link
-              to="https://www.instagram.com/sunnatulloxsunnatullox/"
+              to="https://www.instagram.com/mehriniso_umidovna07/"
               target="_blank"
               className="text-decoration-none"
             >
-              <IoLogoInstagram size={25} />: Sunnah
+              <IoLogoInstagram size={25} />
             </Link>
             <Link
-              to="https://github.com/Sunnatullox"
+              to="https://github.com/flexita24"
               className="text-decoration-none"
               target="_blank"
             >
-              <FaGithub size={25} />: Sunnah
+              <FaGithub size={25} />: Flexita
             </Link>
           </p>
         </div>
